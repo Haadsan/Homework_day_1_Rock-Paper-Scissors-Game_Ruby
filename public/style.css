@@ -1,11 +1,26 @@
 body {
 
-background-color: CRIMSON;
-text-align: center;
+background-color: lightsteelblue;
+text-align: center
 
 }
 
-p {
-    color: black;
+h1 {
+    color: navy;
     text-align: center;
+}
+
+h2 {
+    color: red;
+    text-align: center;
+}
+
+h3 {
+    margin-left: 30px;
+    color: blue;
+}
+
+p {
+    margin-left: 20px;
+    color: black;
 }
